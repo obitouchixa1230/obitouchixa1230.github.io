@@ -4,8 +4,9 @@ title:  "Welcome to Hell2!"
 date:   2023-04-04 21:12:59 +0400
 categories: jekyll update
 ---
-[rickroll]: https://youtu.be/2TSaAysdHhk
+[Тыкай сюда][rickroll]
 
+[rickroll]: https://youtu.be/2TSaAysdHhk
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
