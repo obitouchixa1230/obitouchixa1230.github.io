@@ -15,7 +15,7 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
-![image](https://get.pxhere.com/photo/puppy-dog-pet-mammal-hound-vertebrate-beagle-harrier-dog-breed-small-dog-scent-hound-dog-like-mammal-carnivoran-dog-crossbreeds-beagle-harrier-american-foxhound-basset-art-sien-normand-english-foxhound-treeing-walker-coonhound-estonian-hound-finnish-hound-hamiltonst-vare-drever-912658.jpg)
+![image](https://masyamba.ru/%D0%BF%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D0%BD%D1%8B-%D1%84%D0%BE%D1%82%D0%BE-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8/15-%D0%BF%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D0%BD-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0.jpg)
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
