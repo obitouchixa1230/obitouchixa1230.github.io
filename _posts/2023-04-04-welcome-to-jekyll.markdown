@@ -9,6 +9,7 @@ categories: jekyll update
 Jekyll also offers powerful support for code snippets:
 [Тыкай сюда][rickroll]
 [rickroll]: https://video-preview.s3.yandex.net/A22RCwEAAAA.mp4
+
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
