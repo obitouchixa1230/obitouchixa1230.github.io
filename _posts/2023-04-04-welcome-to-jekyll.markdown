@@ -31,4 +31,5 @@ categories: jekyll update
 Пингвин во время линьки.
 
 Размеры пингвинов варьируются в зависимости от их вида, так, самый крупный, императорский пингвин имеет 117-130 см длины и до 40 кг веса. Маленький пингвин достигает всего лишь 40 см в длину и весит в среднем около 1 кг.
+---
 [iframe]: <iframe width="942" height="530" src="https://www.youtube.com/embed/YZnXMWZFprs" title="Пингвины: Удивительные нелетающие птицы планеты Земля | Интересные факты про пингвинов" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
