@@ -40,3 +40,11 @@ categories: jekyll update
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+[Тыкай сюда][rickroll]
+
+[rickroll]: https://www.youtube.com/embed/coaN2VBNgYA
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+
