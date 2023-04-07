@@ -34,7 +34,7 @@ categories: jekyll update
 
 [Тыкай сюда][rickroll]
 
-[rickroll]: <iframe width="942" height="530" src="https://www.youtube.com/embed/YZnXMWZFprs" title="Пингвины: Удивительные нелетающие птицы планеты Земля | Интересные факты про пингвинов" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[rickroll]: https://www.youtube.com/embed/YZnXMWZFprs
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
