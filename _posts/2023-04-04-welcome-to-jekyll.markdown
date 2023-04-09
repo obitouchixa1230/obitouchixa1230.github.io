@@ -34,7 +34,7 @@ categories: jekyll update
 
 **ВИДЕО РАССКАЗЫВАЮЩЕЕ ВСЕ О ПИНГВИНАХ**
 
-[Тыкай сюда][rickroll]
+[https://www.youtube.com/embed/YZnXMWZFprs][rickroll]
 
 [rickroll]: https://www.youtube.com/embed/YZnXMWZFprs
 [jekyll-docs]: https://jekyllrb.com/docs/home
