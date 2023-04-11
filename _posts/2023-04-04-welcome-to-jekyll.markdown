@@ -41,6 +41,7 @@ categories: jekyll update
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZnXMWZFprs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Места обитания**
 В природных условиях пингвины обитают в южном полушарии нашей планеты, более всего предпочитая холодную Антарктиду. Но помимо этого ледяного континента живут они и на юге Южной Америке, юге Австралии и Новой Зеландии, а также в Южной Африке. Правда стоить заметить, что все, в том числе и африканские пингвины селятся исключительно в местах, где присутствуют холодные океанические течения.
