@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  obitouchixa1230
 
 # Build settings
-theme: minima
+theme: Alembic
 plugins:
   - jekyll-feed
 
